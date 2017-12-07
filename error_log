@@ -1,0 +1,5 @@
+[07-Jul-2017 01:52:28 America/Chicago] PHP Fatal error:  Call to a member function query() on null in /home/netin/public_html/xamarine/application/models/Users.php on line 17
+[07-Jul-2017 04:53:07 America/Chicago] PHP Fatal error:  Call to undefined method stdClass::post() in /home/netin/public_html/xamarine/application/controllers/api/Welcomead.php on line 34
+[07-Jul-2017 05:58:48 America/Chicago] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::getLastId() in /home/netin/public_html/xamarine/application/models/Users.php on line 19
+[07-Jul-2017 07:12:12 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home/netin/public_html/xamarine/application/models/Users.php on line 21
+[08-Jul-2017 02:31:16 America/Chicago] PHP Fatal error:  Call to undefined function base_url() in /home/netin/public_html/xamarine/application/views/admin/welcome_message.php on line 79
